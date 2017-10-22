@@ -1,1 +1,1 @@
-# SubjectiveLogicFusion
+# Subjective Logic Fusion
